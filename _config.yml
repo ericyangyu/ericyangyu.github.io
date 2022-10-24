@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Eric Yang Yu"
-  avatar           : "profile.png"
-  bio              : "UCSD Master's Student"
+  avatar           : "profile.jpg"
+  bio              : "UC San Diego Computer Science Masters"
   location         : "La Jolla, CA"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "eyyu@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
