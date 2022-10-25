@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego. My advisor, Professor 
-[Sicun Gao](https://scungao.github.io/), and I are currently looking at the intersection of machine learning and
-constraint optimization in decision and control problems. 
+[Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
+optimization in decision and control problems. 
