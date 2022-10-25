@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eric Yang Yu, UCSD CSE"
+title: "Eric Yang Yu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
