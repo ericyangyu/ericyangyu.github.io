@@ -20,7 +20,5 @@ D
 _pages/teaching.html,3\0\30a132f963006aab1f1231657797800f194c0364
 B
 _pages/markdown.md,2\b\2b67cc4b00a4866d6416bddd8422c82b2369dfd4
-A
-_data/ui-text.yml,7\a\7ad80b7fff7f8d498a5a1fc441a39e522ab0ec3d
 ;
 _config.yml,c\d\cd089ae45ce870c45e434019e8f1ed4f066cd425
