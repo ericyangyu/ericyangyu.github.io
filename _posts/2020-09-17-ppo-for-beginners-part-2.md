@@ -7,4 +7,4 @@ tags:
   - reinforcement learning
 ---
 
-Learn how to code PPO from scratch with PyTorch starting with Part 2/4 [https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-2-4-f9d8b8aa938a](here).
+Learn how to code PPO from scratch with PyTorch starting with Part 2/4 [here](https://medium.com/@eyyu/coding-ppo-from-scratch-with-pytorch-part-2-4-f9d8b8aa938a).

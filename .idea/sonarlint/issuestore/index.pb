@@ -20,8 +20,6 @@ D
 _pages/teaching.html,3\0\30a132f963006aab1f1231657797800f194c0364
 B
 _pages/markdown.md,2\b\2b67cc4b00a4866d6416bddd8422c82b2369dfd4
-?
-_pages/about.md,c\1\c193b33838b89e5057e026860e6881f9f9e83c09
 A
 _data/ui-text.yml,7\a\7ad80b7fff7f8d498a5a1fc441a39e522ab0ec3d
 ;
