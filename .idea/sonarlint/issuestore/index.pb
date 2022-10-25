@@ -16,8 +16,6 @@ H
 _pages/page-archive.html,2\2\2285430c95de837f88deec4fe6de01005cd997c1
 U
 %_pages/archive-layout-with-content.md,1\4\147893b5e961b93668b90d87465e0ea8d3a7e06f
-M
-_includes/archive-single.html,5\6\56f373d82a2c422cfc1a62c29e9435ea47a52628
 D
 _pages/teaching.html,3\0\30a132f963006aab1f1231657797800f194c0364
 B
