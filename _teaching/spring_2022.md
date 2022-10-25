@@ -1,5 +1,5 @@
 ---
-title: "CSE Tutor"
+title: "Tutor"
 collection: teaching
 type: "Spring 2022"
 permalink: /teaching/spring-2022
