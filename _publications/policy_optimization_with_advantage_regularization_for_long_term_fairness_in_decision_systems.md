@@ -3,7 +3,7 @@ title: "Policy Optimization with Advantage Regularization for Long-Term Fairness
 collection: publications
 permalink: /publication/policy_optimization_with_advantage_regularization_for_long_term_fairness_in_decision_systems
 date: 2022-10-22
-venue: 'NeurIPS 2022'
+venue: 'NeurIPS (Conference on Neural Information Processing Systems) 2022'
 paperurl: 'https://arxiv.org/abs/2210.12546'
 ---
 Abstract
