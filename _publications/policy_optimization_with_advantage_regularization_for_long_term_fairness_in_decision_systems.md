@@ -2,11 +2,9 @@
 title: "Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems"
 collection: publications
 permalink: /publication/policy_optimization_with_advantage_regularization_for_long_term_fairness_in_decision_systems
-excerpt: ''
 date: 2022-10-22
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2210.12546'
-[//]: # (citation: 'Eric Yang Yu, Zhizhen Qin, Min Kyung Lee, and Sicun Gao. Policy optimization with advantage regularization for long-term fairness in decision systems, 2022.')
 ---
 Abstract
 ---
