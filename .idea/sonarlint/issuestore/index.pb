@@ -19,8 +19,6 @@ U
 M
 _includes/archive-single.html,5\6\56f373d82a2c422cfc1a62c29e9435ea47a52628
 D
-_data/navigation.yml,2\b\2be422aeee711340aaa5e49cef05cf00d2df950a
-D
 _pages/teaching.html,3\0\30a132f963006aab1f1231657797800f194c0364
 B
 _pages/markdown.md,2\b\2b67cc4b00a4866d6416bddd8422c82b2369dfd4
