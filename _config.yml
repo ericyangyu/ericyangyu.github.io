@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric Yang Yu"
+title                    : "Eric Yang Yu, UCSD CSE"
 title_separator          : "-"
 name                     : &name "Eric Yang Yu"
 description              : &description "UCSD Master's Student"
