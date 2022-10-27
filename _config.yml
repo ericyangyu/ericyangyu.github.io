@@ -86,7 +86,7 @@ author:
   location         : "La Jolla, CA"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=6ebcOw8AAAAJ&hl=en"
   email            : "eyyu@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
