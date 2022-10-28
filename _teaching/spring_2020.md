@@ -1,5 +1,5 @@
 ---
-title: "Head Tutor"
+title: "Tutor"
 collection: teaching
 type: "Spring 2020"
 permalink: /teaching/spring-2020
