@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/policy_optimization_with_advantage_regularization_for_long_term_fairness_in_decision_systems
 date: 2022-10-22
 venue: 'NeurIPS (Conference on Neural Information Processing Systems) 2022'
-authors: 'Eric Yang Yu, Zhizhen Qin, Min Kyung Lee, Sicun Gao'
+authors: 'Eric Yang Yu<sup>*</sup>, Zhizhen Qin, Min Kyung Lee, Sicun Gao'
 paperurl: 'https://arxiv.org/abs/2210.12546'
 ---
 Abstract
