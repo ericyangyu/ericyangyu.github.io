@@ -13,4 +13,5 @@ optimization in decision and control problems.
 
 Software
 ---
-- DeMAC [ [tool page](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
+- DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
+- PPO for Beginners [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
