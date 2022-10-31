@@ -10,3 +10,7 @@ redirect_from:
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego. My advisor, Professor 
 [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
 optimization in decision and control problems. 
+
+Software
+---
+- DeMAC [ [tool page](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
