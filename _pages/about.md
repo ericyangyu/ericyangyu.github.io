@@ -3,21 +3,21 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+- /about/
+- /about.html
 ---
-I am a Master's student in the Computer Science and Engineering Department at UC San Diego. My advisor, Professor 
+I am a Master's student in the Computer Science and Engineering Department at UC San Diego. My advisor, Professor
 [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
-optimization in decision and control problems. 
+optimization in decision and control problems.
 
 # Software
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
 - PPO for Beginners [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
 
 # Activity
-I work with a local San Diego Middle School to bring STEM to low-income and historically disadvantaged communities. 
-I am always looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
+I work closely with a local San Diego Middle School to bring STEM to low-income and historically disadvantaged communities.
+I am looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
 
 (gallery-row: cpm_052722_0.jpg:large | cpm_052321_inspire_1.jpg, cpm_022020_0.JPG:small)
@@ -34,10 +34,11 @@ and we can talk. Here are some photos of past events:
       $images = explode(',', $images);
 
       $html .= '<div class="gallery-image-' . $size . '">';
-      foreach($images as $image) {
+    foreach($images as $image) {
         // Remove space after the comma
         $image = trim($image);
-        $html .= '<div><img src="' . $tag->page()->image($image)->url() . '"></div>';
+        $img = $tag->page()->image($image);
+        $html .= '<div><img src="' . $img? $img->url() : '' . '"></div>';
       }
       $html .= '</div>';
     }
