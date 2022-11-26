@@ -29,7 +29,7 @@ optimization in decision and control problems.
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
 Having grown up in a low-income household with no ties to industry or academia, I am blessed to have found mentors in college that
 inspire me every day. They showed me ropes that I didn't know existed, and taught me what kind of person I want to become.
-As a result, I wish to do the same for others. By giving back to the community, I aim to inspire students like how my mentors inspire me.
+As a result, I wish to do the same for others. By giving back to the community, I aim to inspire others like how my mentors inspire me.
 
 I am actively looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
