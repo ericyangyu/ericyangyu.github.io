@@ -25,6 +25,7 @@ and we can talk. Here are some photos of past events:
 <img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
 <img src="./images/cpm/cpm_022020_0.JPG">
 
+# Talks
 - (11/26/22 - 12/04/22) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
 - (09/21/22 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
 - (09/24/21) Guest speaker for Microsoft summer interns 2021
