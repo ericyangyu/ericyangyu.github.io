@@ -27,14 +27,16 @@ and we can talk. Here are some photos of past events:
 
 # Talks
 - (11/26/22 - 12/04/22) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
+- (10/19/22 - 10/21/22) Poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022
 - (09/21/22 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
 - (09/24/21) Guest speaker for Microsoft summer interns 2021
 - (05/24/21) Guest speaker for the Global AI Student Conference 2021
 - (05/21/21) Hosted machine learning workshop for San Diego State University (SDSU) with HKNxIEEE
-- (05/01/21) Hosted machine learning workshop for Microsoft Reactor
+- (05/05/21) Hosted machine learning workshop for Microsoft Reactor
 - (03/19/21) Guest speaker for university students in Nepal
+- (01/16/21) Hosted machine learning workshop for Microsoft student ambassadors around the globe
 - (11/13/20) Guest speaker representing North America for Microsoft #SeasonsOfServerless Episode 1
 - (07/26/20) Hosted AI Gaming Tournament for university in Canada
 - (06/16/20) Guest speaker for Microsoft summer interns 2020
 - (10/30/19) Helped run technical workshop with Sarah Guthals and Scott Hanselman
-- (10/26/19) Hosted inspire session for Microsoft ambassadors around the globe
+- (10/26/19) Hosted inspire session for Microsoft student ambassadors around the globe
