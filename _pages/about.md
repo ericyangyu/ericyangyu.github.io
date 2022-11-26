@@ -39,5 +39,6 @@ and we can talk. Here are some photos of past events:
 - (11/13/20) Guest speaker representing North America for Microsoft #SeasonsOfServerless Episode 1
 - (07/26/20) Hosted AI Gaming Tournament for university in Canada
 - (06/16/20) Guest speaker for Microsoft summer interns 2020
+- (11/22/19) Hosted technical cloud-computing for computer vision workshop at UCSD with CSES
 - (10/30/19) Helped run technical workshop with Sarah Guthals and Scott Hanselman
 - (10/26/19) Hosted inspire session for Microsoft student ambassadors around the globe
