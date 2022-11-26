@@ -44,5 +44,6 @@ and we can talk. Here are some photos of past events:
 - (11/2019) Hosted cloud-computing and computer vision workshop at UCSD with CSES
 - (10/2019) Helped run technical workshop with Sarah Guthals and Scott Hanselman
 - (10/2019) Hosted inspire session for Microsoft student ambassadors around the globe
+- (09/2019) Guest panelist for UCSD CSE Orientation
 - (06/2019) Poster session for the UCSD Undergraduate Research Symposium
 - (05/2019) Guest panelist for UCSD Triton Day 2019 CSE Orientation
