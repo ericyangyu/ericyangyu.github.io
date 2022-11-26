@@ -13,7 +13,7 @@ optimization in decision and control problems.
 
 # Experience
 - Amazon (06/2022 - 09/2022)
-  - Software Dev Engineer Intern, Amazon Payment Products
+  - Software Dev Engineer Intern, Amazon Incentive Machine
 - Amazon (06/2021 - 09/2021)
   - Software Dev Engineer Intern, Amazon Payment Products
 
