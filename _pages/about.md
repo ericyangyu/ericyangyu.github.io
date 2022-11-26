@@ -20,29 +20,13 @@ I work closely with a local San Diego Middle School to bring STEM to low-income 
 I am looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
 
-(gallery-row: cpm_052722_0.jpg:large | cpm_052321_inspire_1.jpg, cpm_022020_0.JPG:small)
-<?php kirbytext::$tags['gallery-row'] = array(
-  'html' => function($tag) {
-    $containers = explode('|', $tag->attr('gallery-row'));
-    
-    $html = '<div class="row gallery-row">';
-    foreach($containers as $container) {
-      // Remove space after the comma
-      $container = trim($container);
-      list($images, $size) = explode(':', $container);
-      //get the image array
-      $images = explode(',', $images);
 
-      $html .= '<div class="gallery-image-' . $size . '">';
-    foreach($images as $image) {
-        // Remove space after the comma
-        $image = trim($image);
-        $img = $tag->page()->image($image);
-        $html .= '<div><img src="' . $img? $img->url() : '' . '"></div>';
-      }
-      $html .= '</div>';
-    }
-    
-    return $html . '</div>';
-  }
-);
+[//]: # (![]&#40;C:\Users\Eric Yu\PycharmProjects\ericyangyu.github.io\images\cpm\cpm_052722_0.jpg&#41;)
+
+[//]: # (![]&#40;C:\Users\Eric Yu\PycharmProjects\ericyangyu.github.io\images\cpm\cpm_052321_inspire_1.jpg&#41;)
+
+[//]: # (![]&#40;C:\Users\Eric Yu\PycharmProjects\ericyangyu.github.io\images\cpm\cpm_022020_0.JPG&#41;)
+
+<img src="./images/cpm/cpm_052722_0.jpg">
+
+- (05/24/21) Hosted machine learning workshop at San Diego State University (SDSU) with HKNxIEEE
