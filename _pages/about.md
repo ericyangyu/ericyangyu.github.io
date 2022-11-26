@@ -21,7 +21,7 @@ I am looking for collaborations to further enrich student experiences. Reach out
 and we can talk. Here are some photos of past events:
 
 <img src="./images/cpm/cpm_052722_0.jpg">
-<img src="./images/cpm/cpm_052821_3.jpg" width="299">
+<img src="./images/cpm/cpm_052821_3.jpg" width="290">
 <img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
 <img src="./images/cpm/cpm_022020_0.JPG">
 
