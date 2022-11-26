@@ -7,7 +7,7 @@ redirect_from:
 - /about/
 - /about.html
 ---
-I am a Master's student in the Computer Science and Engineering Department at UC San Diego and a first-generation college student. 
+I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student. 
 My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
 optimization in decision and control problems.
 
@@ -19,7 +19,11 @@ optimization in decision and control problems.
 
 # Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
-I am looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
+Having grown up in a low-income household with no ties to industry or academia, I am blessed to have found mentors in college that
+inspire me every day. They showed me ropes that I didn't know existed, and taught me what kind of person I want to become.
+As a result, I wish to do the same for others. By giving back to the community, I aim to inspire students like how my mentors inspire me.
+
+I am actively looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
 
 <img src="./images/cpm/cpm_052722_0.jpg">
