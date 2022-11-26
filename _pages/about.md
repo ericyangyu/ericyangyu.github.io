@@ -27,6 +27,9 @@ and we can talk. Here are some photos of past events:
 
 [//]: # (![]&#40;C:\Users\Eric Yu\PycharmProjects\ericyangyu.github.io\images\cpm\cpm_022020_0.JPG&#41;)
 
-<img src="./images/cpm/cpm_052722_0.jpg">
+<img src="./images/cpm/cpm_052722_0.jpg" width="30">
+<img src="./images/cpm/cpm_052321_inspire_1.jpg" width="40">
+<img src="./images/cpm/cpm_022020_0.JPG" width="20">
+<img src="./images/cpm/cpm_052821_3.jpg" width="50">
 
 - (05/24/21) Hosted machine learning workshop at San Diego State University (SDSU) with HKNxIEEE
