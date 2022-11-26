@@ -21,13 +21,15 @@ I am looking for collaborations to further enrich student experiences. Reach out
 and we can talk. Here are some photos of past events:
 
 <img src="./images/cpm/cpm_052722_0.jpg">
-<img src="./images/cpm/cpm_052821_3.jpg" width="200">
+<img src="./images/cpm/cpm_052821_3.jpg" width="250">
 <img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
 <img src="./images/cpm/cpm_022020_0.JPG">
 
+- (11/26/22 - 12/04/22) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
 - (09/21/22 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
 - (09/24/21) Guest speaker for Microsoft summer interns 2021
 - (05/24/21) Hosted machine learning workshop for San Diego State University (SDSU) with HKNxIEEE
+- (05/24/21) Guest speaker for the Global AI Student Conference 2021
 - (05/01/21) Hosted machine learning workshop for Microsoft Reactor
 - (03/19/21) Guest speaker for university students in Nepal
 - (11/13/20) Guest speaker representing North America for Microsoft #SeasonsOfServerless Episode 1
