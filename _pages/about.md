@@ -15,7 +15,7 @@ optimization in decision and control problems.
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
 - PPO for Beginners [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
 
-# Activity
+# Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
 I am looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
@@ -25,7 +25,7 @@ and we can talk. Here are some photos of past events:
 <img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
 <img src="./images/cpm/cpm_022020_0.JPG">
 
-# Talks
+# Activity
 - (11/26/22 - 12/04/22) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
 - (10/19/22 - 10/21/22) Poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022
 - (09/21/22 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
