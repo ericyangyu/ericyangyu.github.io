@@ -20,10 +20,10 @@ I work closely with a local San Diego Middle School to bring STEM to low-income 
 I am looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
 
-<img src="./images/cpm/cpm_052722_0.jpg" width="300">
-<img src="./images/cpm/cpm_052321_inspire_1.jpg" width="400">
-<img src="./images/cpm/cpm_022020_0.JPG" width="200">
+<img src="./images/cpm/cpm_052722_0.jpg" width="500">
 <img src="./images/cpm/cpm_052821_3.jpg" width="500">
+<img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
+<img src="./images/cpm/cpm_022020_0.JPG" width="500">
 
 - (09/21/22 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
 - (05/24/21) Hosted machine learning workshop at San Diego State University (SDSU) with HKNxIEEE
