@@ -13,9 +13,9 @@ optimization in decision and control problems.
 
 # Experience
 - Amazon (06/2022 - 09/2022)
-  - Software Dev Engineer Intern, Consumer Payments
+  - Software Dev Engineer Intern, Amazon Payment Products
 - Amazon (06/2021 - 09/2021)
-  - Software Dev Engineer Intern, Consumer Payments
+  - Software Dev Engineer Intern, Amazon Payment Products
 
 # Software
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
