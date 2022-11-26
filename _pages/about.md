@@ -14,3 +14,34 @@ optimization in decision and control problems.
 # Software
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
 - PPO for Beginners [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
+
+# Activity
+I work with a local San Diego Middle School to bring STEM to low-income and historically disadvantaged communities. 
+I am always looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
+and we can talk. Here are some photos of past events:
+
+(gallery-row: cpm_052722_0.jpg:large | cpm_052321_inspire_1.jpg, cpm_022020_0.JPG:small)
+<?php kirbytext::$tags['gallery-row'] = array(
+  'html' => function($tag) {
+    $containers = explode('|', $tag->attr('gallery-row'));
+    
+    $html = '<div class="row gallery-row">';
+    foreach($containers as $container) {
+      // Remove space after the comma
+      $container = trim($container);
+      list($images, $size) = explode(':', $container);
+      //get the image array
+      $images = explode(',', $images);
+
+      $html .= '<div class="gallery-image-' . $size . '">';
+      foreach($images as $image) {
+        // Remove space after the comma
+        $image = trim($image);
+        $html .= '<div><img src="' . $tag->page()->image($image)->url() . '"></div>';
+      }
+      $html .= '</div>';
+    }
+    
+    return $html . '</div>';
+  }
+);
