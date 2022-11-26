@@ -14,8 +14,8 @@ optimization in decision and control problems.
 # Software
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
 - PPO for Beginners [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
-- Wordscape Solver [ [repo](https://github.com/ericyangyu/WordscapeSolverV2) ]: solver for wordscapes mobile game
 - Watersort solver [ [repo](https://github.com/ericyangyu/WatersortSolver) ]: solver for watersort mobile game
+- Wordscape Solver [ [repo](https://github.com/ericyangyu/WordscapeSolverV2) ]: solver for wordscapes mobile game
 
 # Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
