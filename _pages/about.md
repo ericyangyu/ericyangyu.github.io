@@ -31,7 +31,7 @@ and we can talk. Here are some photos of past events:
 - (11/2022) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
 - (10/2022) Poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022 in La Jolla Shores
 - (09/2022 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
-- (05/2022) - Hosted CodeChella at Castle Park Middle School
+- (05/2022) Hosted CodeChella at Castle Park Middle School
 - (09/2021) Guest speaker for Microsoft summer interns 2021
 - (05/2021) Guest speaker for the Global AI Student Conference 2021
 - (05/2021) Hosted machine learning workshop for San Diego State University (SDSU) with HKNxIEEE
