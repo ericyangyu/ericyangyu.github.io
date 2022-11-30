@@ -30,7 +30,7 @@ optimization in decision and control problems.
 # Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
 Having grown up in a low-income household with no ties to industry or academia, I found myself overwhelmed coming into college.
-Folks around me were coming in with high school internships, years of coding experience, parent mentors in big tech/positions of power, 
+Folks around me were coming in with high school internships, years of coding experience, parent mentors in big tech/positions of power, etc.,
 all of which I didn't have access to. However, I am blessed to have found mentors in college that really changed my life. 
 They showed me ropes that I didn't know existed, took risks on me that I didn't think I deserved, and taught me what kind of person I wanted to become.
 These were the people that helped me grow and convinced me that yes, I belong here. Seeing how big an impact my mentors made on my life, 
