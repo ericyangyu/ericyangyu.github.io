@@ -35,7 +35,7 @@ all of which I didn't have access to. However, I am blessed to have found mentor
 They showed me ropes that I didn't know existed, took risks on me that I didn't think I deserved, and taught me what kind of person I wanted to become.
 These were the people that helped me grow and convinced me that yes, I belong here. Seeing how big an impact my mentors made on my life, 
 I wish to do the same for others, especially those who can relate with my struggles. By giving back to the community, I aim to inspire and 
-help others like my mentors did for me. 
+help others like how my mentors did for me. 
 
 I am actively looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Past collaborations have included folks from Microsoft, Qualcomm, F5, UC San Diego, University of Washington, and more. 
