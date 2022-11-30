@@ -18,6 +18,8 @@ optimization in decision and control problems.
 - Amazon (06/2021 - 09/2021)
   - Software Dev Engineer Intern, Amazon Payment Products
   - Seattle, WA
+- Microsoft (01/2019 - 06/2022)
+  - Student Ambassador, Gold
 
 # Software
 - DeMAC [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
@@ -27,9 +29,13 @@ optimization in decision and control problems.
 
 # Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
-Having grown up in a low-income household with no ties to industry or academia, I am blessed to have found mentors in college that
-inspire me every day. They showed me ropes that I didn't know existed, and taught me what kind of person I want to become.
-As a result, I wish to do the same for others. By giving back to the community, I aim to inspire others like how my mentors inspire me.
+Having grown up in a low-income household with no ties to industry or academia, I found myself overwhelmed coming into college.
+Folks around me were coming in with high school internships, years of coding experience, parent mentors in big tech/positions of power, 
+all of which I didn't have access to. However, I am blessed to have found mentors in college that really changed my life. 
+They showed me ropes that I didn't know existed, took risks on me that I didn't think I deserved, and taught me what kind of person I wanted to become.
+These were the people that helped me grow and convinced me that yes, I belong here. Seeing how big an impact my mentors made on my life, 
+I wish to do the same for others, especially those who can relate with my struggles. By giving back to the community, I aim to inspire and 
+help others like my mentors did for me. 
 
 I am actively looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
 and we can talk. Here are some photos of past events:
