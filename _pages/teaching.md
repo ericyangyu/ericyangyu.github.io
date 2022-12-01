@@ -6,7 +6,8 @@ redirect_from:
   - /teaching.html
 ---
 
-content1
+- Tutor (Winter 2019) - Prof. Gary Gillespie
+  - CSE 8A - Introduction to Computer Science: Java, Prof. Gary Gillespie
 
 <!-- ---
 layout: archive
