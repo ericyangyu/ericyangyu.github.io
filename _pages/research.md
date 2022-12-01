@@ -1,9 +1,9 @@
 ---
-permalink: /publications/
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /publications.html
+  - /research.html
 ---
 
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [arXiv](https://arxiv.org/abs/2210.12546) ]\
