@@ -11,6 +11,13 @@ I am a Master's student in the Computer Science and Engineering Department at UC
 My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
 optimization in decision and control problems.
 
+# Education
+- **UC San Diego** (09/2022 - 09/2023)
+  - Master of Science, Computer Science
+  - Advisor: Prof. Sicun Gao
+- **UC San Diego** (09/2018 - 06/2022)
+  - Bachelor of Science, Computer Science
+
 # Experience
 - **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
