@@ -13,7 +13,7 @@ optimization in decision and control problems. Specifically, how can we cheaply 
 optimization problems in deep reinforcement learning?
 
 # Education
-- **UC San Diego** (09/2022 - 09/2023)
+- <img src="./images/ucsd.png" width="25"> **UC San Diego** (09/2022 - 09/2023)
   - Master of Science, Computer Science
   - Advisor: Prof. Sicun Gao
 - **UC San Diego** (09/2018 - 06/2022)
@@ -23,10 +23,10 @@ optimization problems in deep reinforcement learning?
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
   - Seattle, WA
-- **Amazon** (06/2021 - 09/2021)
+- <img src="./images/amazon.png" width="25"> **Amazon** (06/2021 - 09/2021)
   - Software Dev Engineer Intern, Amazon Payment Products
   - Seattle, WA
-- **Microsoft** (01/2019 - 06/2022)
+- <img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
   - Student Ambassador, Gold
 
 # Software
