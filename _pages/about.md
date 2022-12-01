@@ -20,7 +20,7 @@ optimization problems in deep reinforcement learning?
   - Bachelor of Science, Computer Science
 
 # Experience
-- **Amazon** (06/2022 - 09/2022)
+- <img src="./images/amazon.png" width="50"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
   - Seattle, WA
 - **Amazon** (06/2021 - 09/2021)
