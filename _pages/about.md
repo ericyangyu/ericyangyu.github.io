@@ -23,7 +23,7 @@ optimization in decision and control problems.
 
 # Software
 - **DeMAC** [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
-- **PPO for Beginners** [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
+- **PPO for Beginners** [ [repo](https://github.com/ericyangyu/PPO-for-Beginners) ] [ [article](https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
 - **Watersort solver** [ [repo](https://github.com/ericyangyu/WatersortSolver) ]: solver for watersort game
 - **Wordscape solver** [ [repo](https://github.com/ericyangyu/WordscapeSolverV2) ]: solver for wordscapes game
 
