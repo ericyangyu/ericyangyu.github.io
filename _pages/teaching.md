@@ -14,7 +14,7 @@ redirect_from:
   - CSE 150B - Introduction to Artificial Intelligence: Search and Reasoning, Prof. Sicun Gao
 - **(Winter 2022) Tutor**
   - CSE 151B - Deep Learning, Prof. Garrison W. Cottrell
-- **Head Tutor (Fall 2021)
+- **Head Tutor (Fall 2021)**
   - CSE 15L - Software Tools and Techniques Laboratory, Prof. Gary Gillespie
 - **(Spring 2021) Head Tutor**
   - CSE 12 - Basic Data Structures and Object-Oriented Design, Prof. Gary Gillespie
