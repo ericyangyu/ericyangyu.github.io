@@ -7,9 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-{% include base_path %}
-
-content
+content1
 <!-- ---
 layout: archive
 title: "Publications"

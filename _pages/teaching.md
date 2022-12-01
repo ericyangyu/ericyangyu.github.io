@@ -6,9 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-{% include base_path %}
-
-content
+content1
 
 <!-- ---
 layout: archive
