@@ -7,22 +7,6 @@ redirect_from:
   - /publications.html
 ---
 
-content1
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
---- -->
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
+- Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [arXiv](https://arxiv.org/abs/2210.12546) ]\
+Eric Yang Yu, Zhizhen Qin, Min Kyung Lee, and Sicun Gao\
+_NeurIPS (Conference on Neural Information Processing Systems) 2022_
