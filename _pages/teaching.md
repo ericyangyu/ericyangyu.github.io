@@ -1,12 +1,15 @@
 ---
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+<!-- ---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from:
-- /teaching/
-- /teaching.html
----
+--- -->
+content
 
 <!-- {% include base_path %}
 
