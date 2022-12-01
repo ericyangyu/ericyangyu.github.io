@@ -12,13 +12,13 @@ My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are current
 optimization in decision and control problems.
 
 # Experience
-- Amazon (06/2022 - 09/2022)
+- **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
   - Seattle, WA
-- Amazon (06/2021 - 09/2021)
+- **Amazon** (06/2021 - 09/2021)
   - Software Dev Engineer Intern, Amazon Payment Products
   - Seattle, WA
-- Microsoft (01/2019 - 06/2022)
+- **Microsoft** (01/2019 - 06/2022)
   - Student Ambassador, Gold
 
 # Software
