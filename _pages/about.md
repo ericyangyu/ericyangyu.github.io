@@ -32,7 +32,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - Implemented a highly scalable, strictly low-latency internal lookup service that will handle billions of requests per month
   - Seattle, WA
 - <img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
-  - Student Ambassador, Gold
+  - Student Ambassador, Gold (highest rank)
 
 # Software
 - **DeMAC** [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
