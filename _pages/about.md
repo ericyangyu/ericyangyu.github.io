@@ -25,7 +25,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
-  - Designed and created scalable machine learning automation solutions that will annually save Amazon >`$`12MM and drive >`$`1 billion in value
+  - Designed and created scalable machine learning automation solutions that will annually save Amazon \$12MM and drive \$1 billion in value
   - Seattle, WA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2021 - 09/2021)
   - Software Dev Engineer Intern, Amazon Payment Products
