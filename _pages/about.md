@@ -18,19 +18,19 @@ Eric Yang Yu<sup>*</sup>, Zhizhen Qin, Min Kyung Lee, and Sicun Gao\
 _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
 # Education
-<img src="./images/ucsd.png" width="25"> **UC San Diego**
-- MS, Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 09/2023)
-- BS, Computer Science (09/2018 - 06/2022)
+- <img src="./images/ucsd.png" width="25"> **UC San Diego**
+  - MS, Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 09/2023)
+  - BS, Computer Science (09/2018 - 06/2022)
 
 # Experience
-<img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
-- Software Dev Engineer Intern, Amazon Incentive Machine
-- Seattle, WA
-<img src="./images/amazon.png" width="25"> **Amazon** (06/2021 - 09/2021)
-- Software Dev Engineer Intern, Amazon Payment Products
-- Seattle, WA
-<img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
-- Student Ambassador, Gold
+- <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
+  - Software Dev Engineer Intern, Amazon Incentive Machine
+  - Seattle, WA
+- <img src="./images/amazon.png" width="25"> **Amazon** (06/2021 - 09/2021)
+  - Software Dev Engineer Intern, Amazon Payment Products
+  - Seattle, WA
+- <img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
+  - Student Ambassador, Gold
 
 # Software
 - **DeMAC** [ [repo](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
