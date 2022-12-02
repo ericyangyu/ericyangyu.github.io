@@ -56,22 +56,22 @@ Here are some photos of past events:
 <img src="./images/cpm/cpm_022020_0.JPG">
 
 # Activity/Talks 
-- (11/2022) Poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
-- (10/2022) Poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022 in La Jolla Shores
-- (09/2022 - now) Mentor for 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
-- (05/2022) Hosted CodeChella for Castle Park Middle School
-- (09/2021) Guest speaker for Microsoft summer interns 2021
-- (05/2021) Guest speaker for the Global AI Student Conference 2021
+- (11/2022) Presented at poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
+- (10/2022) Presented at poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022 in La Jolla Shores
+- (09/2022 - now) Mentored 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
+- (05/2022) Hosted CodeChella, an escape-room themed STEM competition, for Castle Park Middle School
+- (09/2021) Gave talk on leadership for Microsoft summer interns 2021
+- (05/2021) Gave talk on machine learning for the Global AI Student Conference 2021
 - (05/2021) Hosted machine learning workshop for San Diego State University (SDSU) with HKNxIEEE
 - (05/2021) Hosted machine learning workshop for Microsoft Reactor
-- (03/2021) Guest speaker for university students in Nepal
+- (03/2021) Gave talk on machine learning and college readiness for university students in Nepal
 - (01/2021) Hosted machine learning workshop for Microsoft ambassador AI/ML League
-- (11/2020) Guest speaker representing North America for Microsoft #SeasonsOfServerless Episode 1
+- (11/2020) Gave invited talk representing North America for Microsoft #SeasonsOfServerless Episode 1
 - (07/2020) Hosted AI Gaming Tournament for university in Canada
-- (06/2020) Guest speaker for Microsoft summer interns 2020
+- (06/2020) Gave invited talk on leadership for Microsoft summer interns 2020
 - (11/2019) Hosted cloud-computing and computer vision workshop at UCSD with CSES
-- (10/2019) Helped run technical workshop with Sarah Guthals and Scott Hanselman
+- (10/2019) Helped run technical .NET workshop with Sarah Guthals and Scott Hanselman
 - (10/2019) Hosted inspire session for Microsoft student ambassadors around the globe
 - (09/2019) Student panelist for UCSD CSE Orientation
-- (06/2019) Poster session for the UCSD Undergraduate Research Symposium
+- (06/2019) Presented at poster session for the UCSD Undergraduate Research Symposium
 - (05/2019) Student panelist for UCSD Triton Day 2019 CSE Orientation
