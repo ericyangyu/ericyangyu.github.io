@@ -13,7 +13,7 @@ optimization in decision and control problems. Specifically, how can we cheaply 
 optimization problems in deep reinforcement learning?
 
 # Education
-- <img src="./images/ucsd.png" width="25"> **UC San Diego** (09/2018 - 06/2022)
+- <img src="./images/ucsd.png" width="25"> **UC San Diego**
   - MS, Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 09/2023)
   - BS, Computer Science (09/2018 - 06/2022)
 
