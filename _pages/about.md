@@ -12,6 +12,11 @@ My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are current
 optimization in decision and control problems. Specifically, how can we cheaply and reliably guarantee safety in high-dimensional, highly non-convex
 optimization problems in deep reinforcement learning?
 
+# Research Publications
+- Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [arXiv](https://arxiv.org/abs/2210.12546) ] [ [poster](../images/neurips_poster_arppo.pdf) ]\
+Eric Yang Yu<sup>*</sup>, Zhizhen Qin, Min Kyung Lee, and Sicun Gao\
+_NeurIPS (Conference on Neural Information Processing Systems) 2022_
+
 # Education
 - <img src="./images/ucsd.png" width="25"> **UC San Diego**
   - MS, Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 09/2023)
