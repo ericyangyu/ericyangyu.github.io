@@ -19,8 +19,8 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
 # Education
 - <img src="./images/ucsd.png" width="25"> **UC San Diego**
-  - MS in Computer Science, Advisor: Prof. Sicun Gao (09/2022 &mdash; 09/2023)
-  - BS in Computer Science (09/2018 &mdash; 06/2022)
+  - MS in Computer Science, Advisor: Prof. Sicun Gao (09/2022-09/2023)
+  - BS in Computer Science (09/2018-06/2022)
 
 # Experience
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
