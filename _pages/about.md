@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student. 
 My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
-optimization in decision and control problems. Specifically, how can we cheaply and reliably guarantee safety in high-dimensional, non-convex
+optimization in decision and control problems. Specifically, how can we cheaply and reliably guarantee safety in high-dimensional, highly non-convex
 optimization problems in deep reinforcement learning?
 
 # Education
