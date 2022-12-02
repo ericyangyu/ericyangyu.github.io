@@ -14,8 +14,8 @@ optimization problems in deep reinforcement learning?
 
 # Education
 - <img src="./images/ucsd.png" width="25"> **UC San Diego** (09/2018 - 06/2022)
-  - MS, Computer Science, Advisor: Prof. Sicun Gao
-  - BS, Computer Science
+  - MS, Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 09/2023)
+  - BS, Computer Science (09/2018 - 06/2022)
 
 # Experience
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
