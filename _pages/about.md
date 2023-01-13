@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student. 
 My advisor, Professor [Sicun Gao](https://scungao.github.io/), and I are currently investigating the intersection of machine learning and
-optimization in decision and control problems. Specifically, how can we cheaply and reliably guarantee safety in high-dimensional, highly non-convex
-optimization problems in deep reinforcement learning?
+optimization in decision and control problems. Specifically, how can we cheaply and reliably guarantee safety 
+in deep reinforcement learning?
 
 # Research Publications
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [arXiv](https://arxiv.org/abs/2210.12546) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
