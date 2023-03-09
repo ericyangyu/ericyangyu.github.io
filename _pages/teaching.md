@@ -6,6 +6,8 @@ redirect_from:
   - /teaching.html
 ---
 
+- **Teaching Assistant** (Spring 2023)
+  - CSE 150B - Introduction to Artificial Intelligence: Search and Reasoning, Prof. Sicun Gao
 - **Teaching Assistant** (Winter 2023)
   - CSE 257 - Search and Optimization, Prof. Sicun Gao
 - **Teaching Assistant** (Fall 2022)
