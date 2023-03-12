@@ -13,7 +13,7 @@ optimization in decision and control problems. Specifically, how can we cheaply 
 in deep reinforcement learning?
 
 # Research Publications
-- Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [paper](https://arxiv.org/abs/2210.12546) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
+- Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [paper](https://arxiv.org/pdf/2210.12546.pdf) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
 Eric Yang Yu<sup>*</sup>, Zhizhen Qin, Min Kyung Lee, and Sicun Gao\
 _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
