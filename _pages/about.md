@@ -13,9 +13,6 @@ learning for decision and control problems, with a recent application to fairnes
 guarantee safety in deep reinforcement learning? I am also working on combinatorial search problems using SMT solvers
 for fair scheduling practices.
 
-Outside of research, I am passionate about teaching and leadership. I have been a teaching assistant for 4+ years in UCSD CSE
-and enjoy helping students learn and grow.
-
 # Research Publications
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [paper](https://arxiv.org/pdf/2210.12546.pdf) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
 Eric Yang Yu<sup>*</sup>, Zhizhen Qin, Min Kyung Lee, and Sicun Gao\
