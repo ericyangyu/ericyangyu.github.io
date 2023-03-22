@@ -10,8 +10,11 @@ redirect_from:
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student.
 I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). My research interests are in safe reinforcement
 learning for decision and control problems, with a recent application to fairness. Specifically, how can we cheaply and more robustly 
-guarantee safety in deep reinforcement learning? I am also working on combinatorial search problems using SMT solvers and learning-based 
-approaches for fair scheduling practices.
+guarantee safety in deep reinforcement learning? I am also working on combinatorial search problems using SMT solvers
+for fair scheduling practices.
+
+Outside of research, I am passionate about teaching and leadership. I have been a teaching assistant for 4+ years in UCSD CSE
+and enjoy helping students learn and grow.
 
 # Research Publications
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [paper](https://arxiv.org/pdf/2210.12546.pdf) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
