@@ -32,10 +32,9 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - Software Dev Engineer Intern, Amazon Payment Products
   - Implemented a highly scalable, strictly low-latency internal lookup service that will handle billions of requests per month
   - Seattle, WA
-- <img src="./images/ucsd_cse.png" width="25"> **UCSD CSE** (01/2019 - Present)
-  - Teaching Assistant
-  - Handled everything involved with running a course, except teaching the course itself
-  - More details [here](/teaching.md)
+- <img src="./images/ucsd_cse.png" width="25"> **UCSD** (01/2019 - Present)
+  - Teaching Assistant, Computer Science and Engineering Department
+  - Handled everything involved with running a course, except teaching the course itself (more details [here](/teaching.md))
   - La Jolla, CA
 - <img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
   - Student Ambassador, Gold (highest tier)
