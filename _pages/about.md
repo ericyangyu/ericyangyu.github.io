@@ -34,7 +34,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - Seattle, WA
 - <img src="./images/ucsd_cse.png" width="25"> **UCSD** (01/2019 - Present)
   - Teaching Assistant, Computer Science and Engineering Department
-  - Handled everything involved with running a course, except teaching the course itself (more details [here](/teaching.md))
+  - Handled everything involved with running a course, except teaching the course itself (full list [here](/teaching.md))
   - La Jolla, CA
 - <img src="./images/microsoft.png" width="25"> **Microsoft** (01/2019 - 06/2022)
   - Student Ambassador, Gold (highest tier)
