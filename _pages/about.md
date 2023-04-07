@@ -26,7 +26,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
   - incoming placeholder
-- <img src="./images/mit.png" width="25"> **MIT** (06/2023 - 09/2023)
+- <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - 09/2023)
   - incoming placeholder
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
