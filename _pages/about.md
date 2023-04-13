@@ -25,7 +25,9 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
 # Experience
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
+  - Summer Research Program Intern, Group 01 - Artificial Intelligence Technology
   - incoming placeholder
+  - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
   - Designed and created scalable machine learning automation solutions that will annually save Amazon >\\$12MM and drive >\\$1 billion in value
