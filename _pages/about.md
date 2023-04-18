@@ -60,7 +60,7 @@ I wish to do the same for others, especially those who can relate with my strugg
 help others like how my mentors did for me. 
 
 I am actively looking for collaborations to further enrich student experiences. Reach out to me if you have an idea
-and we can talk. Past collaborations have included folks from Microsoft, Qualcomm, F5, Instagram, and more. 
+and we can talk. Past collaborations have included folks from Microsoft, Qualcomm, F5, Instagram, TikTok, and more. 
 Here are some photos of past events:
 
 <img src="./images/cpm/cpm_052722_0.jpg">
