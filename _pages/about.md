@@ -26,7 +26,6 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
   - Summer Research Program Intern, Group 01 - Artificial Intelligence Technology
-  - incoming placeholder
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
@@ -63,8 +62,8 @@ I am actively looking for collaborations to further enrich student experiences. 
 and we can talk. Past collaborations have included folks from Microsoft, Qualcomm, F5, Instagram, TikTok, and more. 
 Here are some photos of past events:
 
-<img src="./images/cpm/cpm_052722_0.jpg">
 <img src="./images/cpm/cpm_042623_0.jpg">
+<img src="./images/cpm/cpm_052722_0.jpg">
 <img src="./images/cpm/cpm_052821_3.jpg" width="260">
 <img src="./images/cpm/cpm_052321_inspire_1.jpg" width="500">
 <img src="./images/cpm/cpm_022020_0.JPG">
