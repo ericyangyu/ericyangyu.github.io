@@ -20,12 +20,12 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
 # Education
 - <img src="./images/ucsd.png" width="25"> **UC San Diego**
-  - M.S. in Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 12/2023)
+  - M.S. in Computer Science, Advisor: Prof. Sicun Gao (09/2022 - 03/2024)
   - B.S. in Computer Science (09/2018 - 06/2022)
 
 # Experience
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
-  - Summer Research Program Intern, Group 01 - Artificial Intelligence Technology
+  - Research Intern, Group 01 - Artificial Intelligence Technology
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
