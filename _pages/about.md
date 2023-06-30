@@ -8,8 +8,8 @@ redirect_from:
 - /about.html
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student.
-I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). My research interests are in safe reinforcement
-learning for decision and control problems, with a recent application to fairness. Specifically, how can we cheaply and more robustly 
+I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). My research interests primarily lie in safe reinforcement learning
+for decision and control problems. Specifically, how can we cheaply and more robustly 
 guarantee safety in deep reinforcement learning? I am also working on combinatorial search problems using SMT solvers
 and learning-based approaches for fair scheduling practices.
 
@@ -73,7 +73,7 @@ Here are some photos of past events:
 # Activity/Talks 
 - (11/2022) Presented at poster session for the Conference on Neural Information Processing Systems (NeurIPS) 2022 in New Orleans, Louisiana
 - (10/2022) Presented at poster session for the Institute for Learning-Enabled Optimization at Scale (TILOS) 2022 in La Jolla Shores
-- (09/2022 - now) Mentored 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
+- (09/2022 - 06/2023) Mentored 4 undergrads in the UCSD Early Research Scholars Program (ERSP)
 - (05/2022) Hosted CodeChella, an escape-room themed STEM competition, for Castle Park Middle School
 - (09/2021) Gave talk on leadership for Microsoft summer interns 2021
 - (05/2021) Gave talk on machine learning for the Global AI Student Conference 2021
@@ -90,3 +90,9 @@ Here are some photos of past events:
 - (09/2019) Student panelist for UCSD CSE Orientation
 - (06/2019) Presented at poster session for the UCSD Undergraduate Research Symposium
 - (05/2019) Student panelist for UCSD Triton Day 2019 CSE Orientation
+
+
+# Random Fun Stuff
+- **Wordle Solver** [ [code](https://github.com/ericyangyu/N-dle) ]
+- **Wordscape Solver** [ [code](https://github.com/ericyangyu/WordscapeSolverV2) ]
+- **Watersort Solver** [ [code](https://github.com/ericyangyu/WatersortSolver) ]
