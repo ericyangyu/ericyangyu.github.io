@@ -26,6 +26,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
   - Research Intern, Group 01 - Artificial Intelligence Technology
+  - Working at the intersection of computer vision and natural language processing for improved out-of-distribution generalization in self-supervised learning
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
@@ -47,6 +48,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Software
 - **DeMAC** [ [code](https://github.com/ericyangyu/DeMAC) ]: lightweight framework for decentralized multi-agent coordination
 - **PPO for Beginners** [ [code](https://github.com/ericyangyu/PPO-for-Beginners) ] [ [article](https://medium.com/analytics-vidhya/coding-ppo-from-scratch-with-pytorch-part-1-4-613dfc1b14c8) ]: pytorch tutorial for Proximal Policy Optimization (PPO)
+
 
 # Passion Projects
 I work closely with a local San Diego middle school to bring STEM to low-income and historically disadvantaged communities.
