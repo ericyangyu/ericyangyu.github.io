@@ -26,7 +26,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - Present)
   - Visiting Scholar, MIT Department of Aeronautics and Astronautics
-  - Developing practical and efficient solutions to novel formulations of the Multiple Traveling Salesman Problem (MTSP)
+  - Developing practical and efficient algorithms to solve for novel formulations of the Multiple Traveling Salesman Problem (MTSP)
   - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - Present)
   - Research Intern, Group 01 - Artificial Intelligence Technology
