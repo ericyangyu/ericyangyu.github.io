@@ -24,6 +24,9 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - B.S. in Computer Science (09/2018 - 06/2022)
 
 # Experience
+- <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - Present)
+  - Visiting Student Researcher, MIT Department of Aeronautics and Astronautics
+  - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - Present)
   - Research Intern, Group 01 - Artificial Intelligence Technology
   - Working at the intersection of computer vision and natural language processing for improved out-of-distribution generalization in self-supervised learning
