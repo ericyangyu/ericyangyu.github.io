@@ -26,6 +26,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - Present)
   - Visiting Student Researcher, MIT Department of Aeronautics and Astronautics
+  - Working on fundamental multi-agent problems in constrained combinatorial search and optimization
   - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - Present)
   - Research Intern, Group 01 - Artificial Intelligence Technology
