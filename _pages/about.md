@@ -25,11 +25,13 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 
 # Experience
 - <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - Present)
-  - Visiting Student Researcher, MIT Department of Aeronautics and Astronautics
+  - Research Intern, Reliable Autonomous Systems Lab at MIT (REALM), MIT Department of Aeronautics and Astronautics 
+  - Advised by: [Prof. Chuchu Fan](https://chuchu.mit.edu/)
   - Working on fundamental multi-agent problems in constrained combinatorial search and optimization
   - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - Present)
-  - Research Intern, Group 01 - Artificial Intelligence Technology
+  - Research Intern, Group 001 - Artificial Intelligence Technology
+  - Advised by: [Dr. Theodoros Tsiligkaridis](https://www.ll.mit.edu/biographies/theodoros-tsiligkaridis)
   - Working at the intersection of computer vision and natural language processing for improved out-of-distribution generalization in self-supervised learning
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
