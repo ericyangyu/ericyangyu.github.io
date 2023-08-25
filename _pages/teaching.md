@@ -6,6 +6,8 @@ redirect_from:
   - /teaching.html
 ---
 
+- **Teaching Assistant** (Fall 2023)
+  - CSE 158 - Recommender Systems and Web Mining, Prof. Julian McAuley
 - **Teaching Assistant** (Spring 2023)
   - CSE 150B - Introduction to Artificial Intelligence: Search and Reasoning, Prof. Sicun Gao
 - **Teaching Assistant** (Winter 2023)
