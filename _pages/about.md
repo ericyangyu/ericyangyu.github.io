@@ -24,7 +24,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - B.S. in Computer Science (09/2018 - 06/2022)
 
 # Experience
-- <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - Present)
+- <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - 09/2023)
   - Research Intern, MIT Department of Aeronautics and Astronautics 
   - Working on fundamental multi-agent problems in constrained combinatorial search and optimization
   - Cambridge, MA
