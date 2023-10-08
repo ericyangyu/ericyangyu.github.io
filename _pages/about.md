@@ -8,10 +8,12 @@ redirect_from:
 - /about.html
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student.
-I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). My research interests primarily lie in safe reinforcement learning
-for decision and control problems. Specifically, how can we cheaply and more robustly 
-guarantee safety in deep reinforcement learning? I am also working on combinatorial search problems using SMT solvers
-and learning-based approaches for fair scheduling practices.
+I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). 
+My general research interests are in investigating better ways to perform constrained search and optimization for 
+high-dimensional decision and control problems in autonomous systems. 
+More recently, I am designing algorithms to robustly guarantee safety in deep reinforcement learning and 
+trying to tame NP-hard combinatorial search problems.
+
 
 # Research Publications
 - Policy Optimization with Advantage Regularization for Long-Term Fairness in Decision Systems [ [paper](https://arxiv.org/pdf/2210.12546.pdf) ] [ [poster](../images/neurips_poster_pocar.pdf) ] [ [code](https://github.com/ericyangyu/pocar) ]\
@@ -26,11 +28,11 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
 # Experience
 - <img src="./images/mit.png" width="25"> **Massachusetts Institute of Technology (MIT)** (06/2023 - 09/2023)
   - Research Intern, MIT Department of Aeronautics and Astronautics 
-  - Working on fundamental multi-agent problems in constrained combinatorial search and optimization
+  - Investigated better zero-order optimization approaches for constrained combinatorial search in vehicle routing problems
   - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
   - Research Intern, Group 001 - Artificial Intelligence Technology
-  - Working at the intersection of computer vision and natural language processing for improved out-of-distribution generalization in self-supervised learning
+  - Developed new zero-shot method for improved out-of-distribution generalization in vision-language models (paper in review)
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
