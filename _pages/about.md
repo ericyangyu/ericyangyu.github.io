@@ -13,7 +13,8 @@ My general research interests are in investigating better ways to perform constr
 high-dimensional decision and control problems in autonomous systems. 
 More recently, I am designing algorithms to robustly guarantee safety in deep reinforcement learning and 
 trying to tame NP-hard combinatorial search problems.
-My application domains of interest (non-comprehensively) include autonomous driving, robotics, and scheduling.
+My target application domains (non-comprehensively) include autonomous driving, robotics, vehicle routing, 
+and fair work scheduling.
 
 
 # Research Publications
@@ -33,7 +34,7 @@ _NeurIPS (Conference on Neural Information Processing Systems) 2022_
   - Cambridge, MA
 - <img src="./images/mitll.png" width="25"> **MIT Lincoln Laboratory** (06/2023 - 09/2023)
   - Research Intern, Group 001 - Artificial Intelligence Technology
-  - Developed new zero-shot method for improved out-of-distribution generalization in vision-language models (paper in review)
+  - Developed novel zero-shot image classification method for improved out-of-distribution generalization in vision-language models (paper in review)
   - Lexington, MA
 - <img src="./images/amazon.png" width="25"> **Amazon** (06/2022 - 09/2022)
   - Software Dev Engineer Intern, Amazon Incentive Machine
