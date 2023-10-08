@@ -13,6 +13,7 @@ My general research interests are in investigating better ways to perform constr
 high-dimensional decision and control problems in autonomous systems. 
 More recently, I am designing algorithms to robustly guarantee safety in deep reinforcement learning and 
 trying to tame NP-hard combinatorial search problems.
+My application domains of interest (non-comprehensively) include autonomous driving, robotics, and scheduling.
 
 
 # Research Publications
