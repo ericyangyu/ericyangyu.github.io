@@ -6,7 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-- **Teaching Assistant** (Winter 2022)
+- **Teaching Assistant** (Winter 2023)
   - CSE 151B - Deep Learning, Prof. Garrison W. Cottrell
 - **Teaching Assistant** (Fall 2023)
   - CSE 158 - Recommender Systems and Web Mining, Prof. Julian McAuley
