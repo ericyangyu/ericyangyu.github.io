@@ -9,12 +9,7 @@ redirect_from:
 ---
 I am a Master's student in the Computer Science and Engineering Department at UC San Diego and proudly a first-generation college student.
 I am very grateful to be advised by Professor [Sicun Gao](https://scungao.github.io/). 
-My general research interests are in investigating better ways to perform constrained search and optimization for 
-high-dimensional decision and control problems in autonomous systems. 
-More recently, I am designing algorithms to robustly guarantee safety in deep reinforcement learning and 
-trying to tame NP-hard combinatorial search problems.
-My target application domains (non-comprehensively) include autonomous driving, robotics, vehicle routing, 
-and fair work scheduling.
+My general research interests are in safe reinforcement learning and combinatorial optimization.
 
 
 # Research Publications
