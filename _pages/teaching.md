@@ -6,8 +6,9 @@ redirect_from:
   - /teaching.html
 ---
 
-- **Teaching Assistant** (Winter 2022)
+- **Head Teaching Assistant** (Winter 2023)
   - CSE 151B - Deep Learning, Prof. Garrison W. Cottrell
+  - CSE 251B - Deep Learning, Prof. Garrison W. Cottrell
 - **Teaching Assistant** (Fall 2023)
   - CSE 158 - Recommender Systems and Web Mining, Prof. Julian McAuley
 - **Teaching Assistant** (Spring 2023)
@@ -45,3 +46,4 @@ redirect_from:
   - CSE 15L - Software Tools and Techniques Laboratory, Prof. Gary Gillespie
 - **Tutor** (Winter 2019)
   - CSE 8A - Introduction to Computer Science: Java, Prof. Gary Gillespie
+
