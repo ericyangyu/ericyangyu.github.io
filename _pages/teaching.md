@@ -6,6 +6,8 @@ redirect_from:
   - /teaching.html
 ---
 
+- **Teaching Assistant** (Spring 2024)
+  - CSE 150B - Introduction to Artificial Intelligence: Search and Reasoning, Prof. Sicun Gao
 - **Head Teaching Assistant** (Winter 2023)
   - CSE 151B - Deep Learning, Prof. Garrison W. Cottrell
   - CSE 251B - Deep Learning, Prof. Garrison W. Cottrell
